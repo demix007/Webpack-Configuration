@@ -1,5 +1,6 @@
-import image from './assets/image.jpg'
+import image from './assets/image.jpg';
 import './style.css';
+
 const title = document.createElement('h3');
 title.textContent = 'This is a webpack configuration practice';
 
